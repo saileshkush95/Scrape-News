@@ -67,3 +67,6 @@ class Blog(ModelMeta, TimeStampWithCreatorModel):
     tags = TaggableManager()
     related_posts = models.ManyToManyField("self")
     category = models.ManyToManyField(Category, related_name="blogs")
+# for downloading and uploading files in django
+
+# https://stackoverflow.com/questions/64263748/how-download-image-from-url-to-django
