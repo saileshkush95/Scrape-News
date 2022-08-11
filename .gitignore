@@ -2,3 +2,5 @@ db.sqlite3
 celerybeat-schedule.db
 test.py
 venv
+.idea
+celerybeat-schedule
