@@ -28,7 +28,7 @@ feedparser==6.0.10
 filelock==3.8.0
 idna==3.3
 jieba3k==0.35.1
-joblib==1.1.0
+joblib==1.2.0
 kombu==5.2.4
 lxml==4.9.1
 newspaper3k==0.2.8
